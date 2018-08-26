@@ -1,0 +1,39 @@
+*.iml
+.gradle
+.DS_Store
+/captures
+.externalNativeBuild
+
+# Built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+*.iml
+.idea
+.gradle
+build/
+/local.properties
+.navigation
+captures/
+output.json 
+
+#NDK
+obj/
+.externalNativeBuild
+
+# Publishing materials
+publishing/
